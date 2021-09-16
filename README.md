@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @suprit08 
 - 👀 I’m interested in analytics, programming, UI designing, and much more..
-- 🌱 I’m currently learning pythonism
+- 🌱 I’m currently following pythonism
 - 💞️ I’m looking to collaborate on my handson projects
-- 📫 sonarsuprit@gmail.com
+- 📫 Get in touch with me **sonarsuprit@gmail.com**
 
 
 
